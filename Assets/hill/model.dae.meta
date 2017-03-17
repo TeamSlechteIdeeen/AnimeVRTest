@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: d9f8e10d358279e4db87137e26d6e1f0
+timeCreated: 1488887178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bottom
+    100002: Bottom 1
+    100004: Bottom 10
+    100006: Bottom 11
+    100008: Bottom 12
+    100010: Bottom 13
+    100012: Bottom 14
+    100014: Bottom 15
+    100016: Bottom 16
+    100018: Bottom 17
+    100020: Bottom 18
+    100022: Bottom 19
+    100024: Bottom 2
+    100026: Bottom 20
+    100028: Bottom 21
+    100030: Bottom 22
+    100032: Bottom 23
+    100034: Bottom 24
+    100036: Bottom 25
+    100038: Bottom 3
+    100040: Bottom 4
+    100042: Bottom 5
+    100044: Bottom 6
+    100046: Bottom 7
+    100048: Bottom 8
+    100050: Bottom 9
+    100052: branch_with_leaf_1
+    100054: branch_with_leaf_1 1
+    100056: branch_with_leaf_1 10
+    100058: branch_with_leaf_1 11
+    100060: branch_with_leaf_1 12
+    100062: branch_with_leaf_1 13
+    100064: branch_with_leaf_1 14
+    100066: branch_with_leaf_1 15
+    100068: branch_with_leaf_1 16
+    100070: branch_with_leaf_1 17
+    100072: branch_with_leaf_1 18
+    100074: branch_with_leaf_1 19
+    100076: branch_with_leaf_1 2
+    100078: branch_with_leaf_1 20
+    100080: branch_with_leaf_1 21
+    100082: branch_with_leaf_1 22
+    100084: branch_with_leaf_1 23
+    100086: branch_with_leaf_1 24
+    100088: branch_with_leaf_1 25
+    100090: branch_with_leaf_1 26
+    100092: branch_with_leaf_1 27
+    100094: branch_with_leaf_1 28
+    100096: branch_with_leaf_1 29
+    100098: branch_with_leaf_1 3
+    100100: branch_with_leaf_1 30
+    100102: branch_with_leaf_1 31
+    100104: branch_with_leaf_1 32
+    100106: branch_with_leaf_1 4
+    100108: branch_with_leaf_1 5
+    100110: branch_with_leaf_1 6
+    100112: branch_with_leaf_1 7
+    100114: branch_with_leaf_1 8
+    100116: branch_with_leaf_1 9
+    100118: center
+    100120: center 1
+    100122: center 10
+    100124: center 11
+    100126: center 12
+    100128: center 13
+    100130: center 14
+    100132: center 15
+    100134: center 16
+    100136: center 17
+    100138: center 18
+    100140: center 19
+    100142: center 2
+    100144: center 20
+    100146: center 21
+    100148: center 22
+    100150: center 23
+    100152: center 24
+    100154: center 25
+    100156: center 3
+    100158: center 4
+    100160: center 5
+    100162: center 6
+    100164: center 7
+    100166: center 8
+    100168: center 9
+    100170: group_0
+    100172: group_0 1
+    100174: group_0 10
+    100176: group_0 11
+    100178: group_0 12
+    100180: group_0 13
+    100182: group_0 14
+    100184: group_0 15
+    100186: group_0 16
+    100188: group_0 17
+    100190: group_0 18
+    100192: group_0 19
+    100194: group_0 2
+    100196: group_0 20
+    100198: group_0 21
+    100200: group_0 22
+    100202: group_0 23
+    100204: group_0 24
+    100206: group_0 25
+    100208: group_0 3
+    100210: group_0 4
+    100212: group_0 5
+    100214: group_0 6
+    100216: group_0 7
+    100218: group_0 8
+    100220: group_0 9
+    100222: group_1
+    100224: group_2
+    100226: group_2 1
+    100228: group_2 10
+    100230: group_2 100
+    100232: group_2 101
+    100234: group_2 102
+    100236: group_2 103
+    100238: group_2 104
+    100240: group_2 105
+    100242: group_2 106
+    100244: group_2 107
+    100246: group_2 108
+    100248: group_2 109
+    100250: group_2 11
+    100252: group_2 110
+    100254: group_2 111
+    100256: group_2 112
+    100258: group_2 113
+    100260: group_2 114
+    100262: group_2 115
+    100264: group_2 116
+    100266: group_2 117
+    100268: group_2 118
+    100270: group_2 119
+    100272: group_2 12
+    100274: group_2 120
+    100276: group_2 121
+    100278: group_2 122
+    100280: group_2 123
+    100282: group_2 124
+    100284: group_2 125
+    100286: group_2 126
+    100288: group_2 127
+    100290: group_2 128
+    100292: group_2 129
+    100294: group_2 13
+    100296: group_2 130
+    100298: group_2 131
+    100300: group_2 132
+    100302: group_2 133
+    100304: group_2 134
+    100306: group_2 135
+    100308: group_2 136
+    100310: group_2 137
+    100312: group_2 138
+    100314: group_2 139
+    100316: group_2 14
+    100318: group_2 140
+    100320: group_2 141
+    100322: group_2 142
+    100324: group_2 143
+    100326: group_2 144
+    100328: group_2 145
+    100330: group_2 146
+    100332: group_2 147
+    100334: group_2 148
+    100336: group_2 149
+    100338: group_2 15
+    100340: group_2 150
+    100342: group_2 151
+    100344: group_2 152
+    100346: group_2 153
+    100348: group_2 154
+    100350: group_2 155
+    100352: group_2 156
+    100354: group_2 157
+    100356: group_2 158
+    100358: group_2 159
+    100360: group_2 16
+    100362: group_2 160
+    100364: group_2 161
+    100366: group_2 162
+    100368: group_2 163
+    100370: group_2 164
+    100372: group_2 165
+    100374: group_2 166
+    100376: group_2 167
+    100378: group_2 168
+    100380: group_2 169
+    100382: group_2 17
+    100384: group_2 170
+    100386: group_2 171
+    100388: group_2 172
+    100390: group_2 173
+    100392: group_2 174
+    100394: group_2 175
+    100396: group_2 176
+    100398: group_2 177
+    100400: group_2 178
+    100402: group_2 179
+    100404: group_2 18
+    100406: group_2 19
+    100408: group_2 2
+    100410: group_2 20
+    100412: group_2 21
+    100414: group_2 22
+    100416: group_2 23
+    100418: group_2 24
+    100420: group_2 25
+    100422: group_2 26
+    100424: group_2 27
+    100426: group_2 28
+    100428: group_2 29
+    100430: group_2 3
+    100432: group_2 30
+    100434: group_2 31
+    100436: group_2 32
+    100438: group_2 33
+    100440: group_2 34
+    100442: group_2 35
+    100444: group_2 36
+    100446: group_2 37
+    100448: group_2 38
+    100450: group_2 39
+    100452: group_2 4
+    100454: group_2 40
+    100456: group_2 41
+    100458: group_2 42
+    100460: group_2 43
+    100462: group_2 44
+    100464: group_2 45
+    100466: group_2 46
+    100468: group_2 47
+    100470: group_2 48
+    100472: group_2 49
+    100474: group_2 5
+    100476: group_2 50
+    100478: group_2 51
+    100480: group_2 52
+    100482: group_2 53
+    100484: group_2 54
+    100486: group_2 55
+    100488: group_2 56
+    100490: group_2 57
+    100492: group_2 58
+    100494: group_2 59
+    100496: group_2 6
+    100498: group_2 60
+    100500: group_2 61
+    100502: group_2 62
+    100504: group_2 63
+    100506: group_2 64
+    100508: group_2 65
+    100510: group_2 66
+    100512: group_2 67
+    100514: group_2 68
+    100516: group_2 69
+    100518: group_2 7
+    100520: group_2 70
+    100522: group_2 71
+    100524: group_2 72
+    100526: group_2 73
+    100528: group_2 74
+    100530: group_2 75
+    100532: group_2 76
+    100534: group_2 77
+    100536: group_2 78
+    100538: group_2 79
+    100540: group_2 8
+    100542: group_2 80
+    100544: group_2 81
+    100546: group_2 82
+    100548: group_2 83
+    100550: group_2 84
+    100552: group_2 85
+    100554: group_2 86
+    100556: group_2 87
+    100558: group_2 88
+    100560: group_2 89
+    100562: group_2 9
+    100564: group_2 90
+    100566: group_2 91
+    100568: group_2 92
+    100570: group_2 93
+    100572: group_2 94
+    100574: group_2 95
+    100576: group_2 96
+    100578: group_2 97
+    100580: group_2 98
+    100582: group_2 99
+    100584: ID21
+    100586: ID313
+    100588: ID321
+    100590: ID334
+    100592: ID342
+    100594: ID350
+    100596: ID49
+    100598: ID49 1
+    100600: image_0
+    100602: instance_0
+    100604: instance_1
+    100606: instance_10
+    100608: instance_10 1
+    100610: instance_10 10
+    100612: instance_10 11
+    100614: instance_10 12
+    100616: instance_10 13
+    100618: instance_10 14
+    100620: instance_10 15
+    100622: instance_10 16
+    100624: instance_10 17
+    100626: instance_10 18
+    100628: instance_10 19
+    100630: instance_10 2
+    100632: instance_10 20
+    100634: instance_10 21
+    100636: instance_10 22
+    100638: instance_10 23
+    100640: instance_10 24
+    100642: instance_10 25
+    100644: instance_10 3
+    100646: instance_10 4
+    100648: instance_10 5
+    100650: instance_10 6
+    100652: instance_10 7
+    100654: instance_10 8
+    100656: instance_10 9
+    100658: instance_100
+    100660: instance_11
+    100662: instance_12
+    100664: instance_13
+    100666: instance_14
+    100668: instance_15
+    100670: instance_16
+    100672: instance_17
+    100674: instance_18
+    100676: instance_19
+    100678: instance_2
+    100680: instance_20
+    100682: instance_21
+    100684: instance_22
+    100686: instance_23
+    100688: instance_24
+    100690: instance_25
+    100692: instance_26
+    100694: instance_27
+    100696: instance_28
+    100698: instance_29
+    100700: instance_3
+    100702: instance_30
+    100704: instance_31
+    100706: instance_32
+    100708: instance_33
+    100710: instance_34
+    100712: instance_35
+    100714: instance_36
+    100716: instance_37
+    100718: instance_38
+    100720: instance_39
+    100722: instance_4
+    100724: instance_40
+    100726: instance_41
+    100728: instance_42
+    100730: instance_43
+    100732: instance_44
+    100734: instance_45
+    100736: instance_46
+    100738: instance_47
+    100740: instance_48
+    100742: instance_49
+    100744: instance_5
+    100746: instance_50
+    100748: instance_51
+    100750: instance_51 1
+    100752: instance_51 10
+    100754: instance_51 11
+    100756: instance_51 12
+    100758: instance_51 13
+    100760: instance_51 14
+    100762: instance_51 15
+    100764: instance_51 16
+    100766: instance_51 17
+    100768: instance_51 18
+    100770: instance_51 19
+    100772: instance_51 2
+    100774: instance_51 20
+    100776: instance_51 21
+    100778: instance_51 22
+    100780: instance_51 23
+    100782: instance_51 24
+    100784: instance_51 25
+    100786: instance_51 26
+    100788: instance_51 27
+    100790: instance_51 28
+    100792: instance_51 29
+    100794: instance_51 3
+    100796: instance_51 30
+    100798: instance_51 31
+    100800: instance_51 32
+    100802: instance_51 4
+    100804: instance_51 5
+    100806: instance_51 6
+    100808: instance_51 7
+    100810: instance_51 8
+    100812: instance_51 9
+    100814: instance_52
+    100816: instance_52 1
+    100818: instance_52 10
+    100820: instance_52 11
+    100822: instance_52 12
+    100824: instance_52 13
+    100826: instance_52 14
+    100828: instance_52 15
+    100830: instance_52 16
+    100832: instance_52 17
+    100834: instance_52 18
+    100836: instance_52 19
+    100838: instance_52 2
+    100840: instance_52 20
+    100842: instance_52 21
+    100844: instance_52 22
+    100846: instance_52 23
+    100848: instance_52 24
+    100850: instance_52 25
+    100852: instance_52 26
+    100854: instance_52 27
+    100856: instance_52 28
+    100858: instance_52 29
+    100860: instance_52 3
+    100862: instance_52 30
+    100864: instance_52 31
+    100866: instance_52 32
+    100868: instance_52 4
+    100870: instance_52 5
+    100872: instance_52 6
+    100874: instance_52 7
+    100876: instance_52 8
+    100878: instance_52 9
+    100880: instance_53
+    100882: instance_53 1
+    100884: instance_53 10
+    100886: instance_53 11
+    100888: instance_53 12
+    100890: instance_53 13
+    100892: instance_53 14
+    100894: instance_53 15
+    100896: instance_53 16
+    100898: instance_53 17
+    100900: instance_53 18
+    100902: instance_53 19
+    100904: instance_53 2
+    100906: instance_53 20
+    100908: instance_53 21
+    100910: instance_53 22
+    100912: instance_53 23
+    100914: instance_53 24
+    100916: instance_53 25
+    100918: instance_53 26
+    100920: instance_53 27
+    100922: instance_53 28
+    100924: instance_53 29
+    100926: instance_53 3
+    100928: instance_53 30
+    100930: instance_53 31
+    100932: instance_53 32
+    100934: instance_53 4
+    100936: instance_53 5
+    100938: instance_53 6
+    100940: instance_53 7
+    100942: instance_53 8
+    100944: instance_53 9
+    100946: instance_54
+    100948: instance_54 1
+    100950: instance_54 10
+    100952: instance_54 11
+    100954: instance_54 12
+    100956: instance_54 13
+    100958: instance_54 14
+    100960: instance_54 15
+    100962: instance_54 16
+    100964: instance_54 17
+    100966: instance_54 18
+    100968: instance_54 19
+    100970: instance_54 2
+    100972: instance_54 20
+    100974: instance_54 21
+    100976: instance_54 22
+    100978: instance_54 23
+    100980: instance_54 24
+    100982: instance_54 25
+    100984: instance_54 26
+    100986: instance_54 27
+    100988: instance_54 28
+    100990: instance_54 29
+    100992: instance_54 3
+    100994: instance_54 30
+    100996: instance_54 31
+    100998: instance_54 32
+    101000: instance_54 4
+    101002: instance_54 5
+    101004: instance_54 6
+    101006: instance_54 7
+    101008: instance_54 8
+    101010: instance_54 9
+    101012: instance_55
+    101014: instance_55 1
+    101016: instance_55 10
+    101018: instance_55 11
+    101020: instance_55 12
+    101022: instance_55 13
+    101024: instance_55 14
+    101026: instance_55 15
+    101028: instance_55 16
+    101030: instance_55 17
+    101032: instance_55 18
+    101034: instance_55 19
+    101036: instance_55 2
+    101038: instance_55 20
+    101040: instance_55 21
+    101042: instance_55 22
+    101044: instance_55 23
+    101046: instance_55 24
+    101048: instance_55 25
+    101050: instance_55 26
+    101052: instance_55 27
+    101054: instance_55 28
+    101056: instance_55 29
+    101058: instance_55 3
+    101060: instance_55 30
+    101062: instance_55 31
+    101064: instance_55 32
+    101066: instance_55 4
+    101068: instance_55 5
+    101070: instance_55 6
+    101072: instance_55 7
+    101074: instance_55 8
+    101076: instance_55 9
+    101078: instance_56
+    101080: instance_57
+    101082: instance_58
+    101084: instance_59
+    101086: instance_6
+    101088: instance_6 1
+    101090: instance_6 10
+    101092: instance_6 11
+    101094: instance_6 12
+    101096: instance_6 13
+    101098: instance_6 14
+    101100: instance_6 15
+    101102: instance_6 16
+    101104: instance_6 17
+    101106: instance_6 18
+    101108: instance_6 19
+    101110: instance_6 2
+    101112: instance_6 20
+    101114: instance_6 21
+    101116: instance_6 22
+    101118: instance_6 23
+    101120: instance_6 24
+    101122: instance_6 25
+    101124: instance_6 3
+    101126: instance_6 4
+    101128: instance_6 5
+    101130: instance_6 6
+    101132: instance_6 7
+    101134: instance_6 8
+    101136: instance_6 9
+    101138: instance_60
+    101140: instance_61
+    101142: instance_62
+    101144: instance_63
+    101146: instance_64
+    101148: instance_65
+    101150: instance_66
+    101152: instance_67
+    101154: instance_68
+    101156: instance_69
+    101158: instance_7
+    101160: instance_7 1
+    101162: instance_7 10
+    101164: instance_7 11
+    101166: instance_7 12
+    101168: instance_7 13
+    101170: instance_7 14
+    101172: instance_7 15
+    101174: instance_7 16
+    101176: instance_7 17
+    101178: instance_7 18
+    101180: instance_7 19
+    101182: instance_7 2
+    101184: instance_7 20
+    101186: instance_7 21
+    101188: instance_7 22
+    101190: instance_7 23
+    101192: instance_7 24
+    101194: instance_7 25
+    101196: instance_7 3
+    101198: instance_7 4
+    101200: instance_7 5
+    101202: instance_7 6
+    101204: instance_7 7
+    101206: instance_7 8
+    101208: instance_7 9
+    101210: instance_70
+    101212: instance_71
+    101214: instance_72
+    101216: instance_73
+    101218: instance_74
+    101220: instance_75
+    101222: instance_76
+    101224: instance_77
+    101226: instance_78
+    101228: instance_79
+    101230: instance_8
+    101232: instance_8 1
+    101234: instance_8 10
+    101236: instance_8 11
+    101238: instance_8 12
+    101240: instance_8 13
+    101242: instance_8 14
+    101244: instance_8 15
+    101246: instance_8 16
+    101248: instance_8 17
+    101250: instance_8 18
+    101252: instance_8 19
+    101254: instance_8 2
+    101256: instance_8 20
+    101258: instance_8 21
+    101260: instance_8 22
+    101262: instance_8 23
+    101264: instance_8 24
+    101266: instance_8 25
+    101268: instance_8 3
+    101270: instance_8 4
+    101272: instance_8 5
+    101274: instance_8 6
+    101276: instance_8 7
+    101278: instance_8 8
+    101280: instance_8 9
+    101282: instance_80
+    101284: instance_81
+    101286: instance_82
+    101288: instance_83
+    101290: instance_84
+    101292: instance_85
+    101294: instance_86
+    101296: instance_87
+    101298: instance_88
+    101300: instance_89
+    101302: instance_9
+    101304: instance_9 1
+    101306: instance_9 10
+    101308: instance_9 11
+    101310: instance_9 12
+    101312: instance_9 13
+    101314: instance_9 14
+    101316: instance_9 15
+    101318: instance_9 16
+    101320: instance_9 17
+    101322: instance_9 18
+    101324: instance_9 19
+    101326: instance_9 2
+    101328: instance_9 20
+    101330: instance_9 21
+    101332: instance_9 22
+    101334: instance_9 23
+    101336: instance_9 24
+    101338: instance_9 25
+    101340: instance_9 3
+    101342: instance_9 4
+    101344: instance_9 5
+    101346: instance_9 6
+    101348: instance_9 7
+    101350: instance_9 8
+    101352: instance_9 9
+    101354: instance_90
+    101356: instance_91
+    101358: instance_92
+    101360: instance_93
+    101362: instance_94
+    101364: instance_95
+    101366: instance_96
+    101368: instance_97
+    101370: instance_98
+    101372: instance_99
+    101374: Last Saved SketchUp View
+    101376: leaf
+    101378: leaf 1
+    101380: leaf 10
+    101382: leaf 100
+    101384: leaf 101
+    101386: leaf 102
+    101388: leaf 103
+    101390: leaf 104
+    101392: leaf 105
+    101394: leaf 106
+    101396: leaf 107
+    101398: leaf 108
+    101400: leaf 109
+    101402: leaf 11
+    101404: leaf 110
+    101406: leaf 111
+    101408: leaf 112
+    101410: leaf 113
+    101412: leaf 114
+    101414: leaf 115
+    101416: leaf 116
+    101418: leaf 117
+    101420: leaf 118
+    101422: leaf 119
+    101424: leaf 12
+    101426: leaf 120
+    101428: leaf 121
+    101430: leaf 122
+    101432: leaf 123
+    101434: leaf 124
+    101436: leaf 125
+    101438: leaf 126
+    101440: leaf 127
+    101442: leaf 128
+    101444: leaf 129
+    101446: leaf 13
+    101448: leaf 130
+    101450: leaf 131
+    101452: leaf 132
+    101454: leaf 133
+    101456: leaf 134
+    101458: leaf 135
+    101460: leaf 136
+    101462: leaf 137
+    101464: leaf 138
+    101466: leaf 139
+    101468: leaf 14
+    101470: leaf 140
+    101472: leaf 141
+    101474: leaf 142
+    101476: leaf 143
+    101478: leaf 144
+    101480: leaf 145
+    101482: leaf 146
+    101484: leaf 147
+    101486: leaf 148
+    101488: leaf 149
+    101490: leaf 15
+    101492: leaf 150
+    101494: leaf 151
+    101496: leaf 152
+    101498: leaf 153
+    101500: leaf 154
+    101502: leaf 155
+    101504: leaf 156
+    101506: leaf 157
+    101508: leaf 158
+    101510: leaf 159
+    101512: leaf 16
+    101514: leaf 160
+    101516: leaf 161
+    101518: leaf 162
+    101520: leaf 163
+    101522: leaf 164
+    101524: leaf 165
+    101526: leaf 166
+    101528: leaf 167
+    101530: leaf 168
+    101532: leaf 169
+    101534: leaf 17
+    101536: leaf 170
+    101538: leaf 171
+    101540: leaf 172
+    101542: leaf 173
+    101544: leaf 174
+    101546: leaf 175
+    101548: leaf 176
+    101550: leaf 177
+    101552: leaf 178
+    101554: leaf 179
+    101556: leaf 18
+    101558: leaf 19
+    101560: leaf 2
+    101562: leaf 20
+    101564: leaf 21
+    101566: leaf 22
+    101568: leaf 23
+    101570: leaf 24
+    101572: leaf 25
+    101574: leaf 26
+    101576: leaf 27
+    101578: leaf 28
+    101580: leaf 29
+    101582: leaf 3
+    101584: leaf 30
+    101586: leaf 31
+    101588: leaf 32
+    101590: leaf 33
+    101592: leaf 34
+    101594: leaf 35
+    101596: leaf 36
+    101598: leaf 37
+    101600: leaf 38
+    101602: leaf 39
+    101604: leaf 4
+    101606: leaf 40
+    101608: leaf 41
+    101610: leaf 42
+    101612: leaf 43
+    101614: leaf 44
+    101616: leaf 45
+    101618: leaf 46
+    101620: leaf 47
+    101622: leaf 48
+    101624: leaf 49
+    101626: leaf 5
+    101628: leaf 50
+    101630: leaf 51
+    101632: leaf 52
+    101634: leaf 53
+    101636: leaf 54
+    101638: leaf 55
+    101640: leaf 56
+    101642: leaf 57
+    101644: leaf 58
+    101646: leaf 59
+    101648: leaf 6
+    101650: leaf 60
+    101652: leaf 61
+    101654: leaf 62
+    101656: leaf 63
+    101658: leaf 64
+    101660: leaf 65
+    101662: leaf 66
+    101664: leaf 67
+    101666: leaf 68
+    101668: leaf 69
+    101670: leaf 7
+    101672: leaf 70
+    101674: leaf 71
+    101676: leaf 72
+    101678: leaf 73
+    101680: leaf 74
+    101682: leaf 75
+    101684: leaf 76
+    101686: leaf 77
+    101688: leaf 78
+    101690: leaf 79
+    101692: leaf 8
+    101694: leaf 80
+    101696: leaf 81
+    101698: leaf 82
+    101700: leaf 83
+    101702: leaf 84
+    101704: leaf 85
+    101706: leaf 86
+    101708: leaf 87
+    101710: leaf 88
+    101712: leaf 89
+    101714: leaf 9
+    101716: leaf 90
+    101718: leaf 91
+    101720: leaf 92
+    101722: leaf 93
+    101724: leaf 94
+    101726: leaf 95
+    101728: leaf 96
+    101730: leaf 97
+    101732: leaf 98
+    101734: leaf 99
+    101736: leftside
+    101738: leftside 1
+    101740: leftside 10
+    101742: leftside 11
+    101744: leftside 12
+    101746: leftside 13
+    101748: leftside 14
+    101750: leftside 15
+    101752: leftside 16
+    101754: leftside 17
+    101756: leftside 18
+    101758: leftside 19
+    101760: leftside 2
+    101762: leftside 20
+    101764: leftside 21
+    101766: leftside 22
+    101768: leftside 23
+    101770: leftside 24
+    101772: leftside 25
+    101774: leftside 3
+    101776: leftside 4
+    101778: leftside 5
+    101780: leftside 6
+    101782: leftside 7
+    101784: leftside 8
+    101786: leftside 9
+    101788: //RootNode
+    101790: OakPatch_101b
+    101792: OakPatch_101b 1
+    101794: OakPatch_101b 10
+    101796: OakPatch_101b 11
+    101798: OakPatch_101b 12
+    101800: OakPatch_101b 13
+    101802: OakPatch_101b 14
+    101804: OakPatch_101b 15
+    101806: OakPatch_101b 16
+    101808: OakPatch_101b 17
+    101810: OakPatch_101b 18
+    101812: OakPatch_101b 19
+    101814: OakPatch_101b 2
+    101816: OakPatch_101b 20
+    101818: OakPatch_101b 21
+    101820: OakPatch_101b 22
+    101822: OakPatch_101b 23
+    101824: OakPatch_101b 24
+    101826: OakPatch_101b 25
+    101828: OakPatch_101b 3
+    101830: OakPatch_101b 4
+    101832: OakPatch_101b 5
+    101834: OakPatch_101b 6
+    101836: OakPatch_101b 7
+    101838: OakPatch_101b 8
+    101840: OakPatch_101b 9
+    101842: rightside
+    101844: rightside 1
+    101846: rightside 10
+    101848: rightside 11
+    101850: rightside 12
+    101852: rightside 13
+    101854: rightside 14
+    101856: rightside 15
+    101858: rightside 16
+    101860: rightside 17
+    101862: rightside 18
+    101864: rightside 19
+    101866: rightside 2
+    101868: rightside 20
+    101870: rightside 21
+    101872: rightside 22
+    101874: rightside 23
+    101876: rightside 24
+    101878: rightside 25
+    101880: rightside 3
+    101882: rightside 4
+    101884: rightside 5
+    101886: rightside 6
+    101888: rightside 7
+    101890: rightside 8
+    101892: rightside 9
+    101894: ske5A
+    101896: ske5B
+    101898: top
+    101900: top 1
+    101902: top 10
+    101904: top 11
+    101906: top 12
+    101908: top 13
+    101910: top 14
+    101912: top 15
+    101914: top 16
+    101916: top 17
+    101918: top 18
+    101920: top 19
+    101922: top 2
+    101924: top 20
+    101926: top 21
+    101928: top 22
+    101930: top 23
+    101932: top 24
+    101934: top 25
+    101936: top 3
+    101938: top 4
+    101940: top 5
+    101942: top 6
+    101944: top 7
+    101946: top 8
+    101948: top 9
+    101950: tree2
+    101952: Tree_Deciduous_Ash_HighPolygon
+    101954: treePart3
+    101956: treePart3 1
+    101958: treePart3 2
+    101960: trunk
+    101962: trunk 1
+    101964: trunk 2
+    101966: trunk 3
+    101968: trunk 4
+    101970: trunk 5
+    101972: trunk 6
+    101974: trunk 7
+    101976: trunk 8
+    101978: trunk_1
+    400000: Bottom
+    400002: Bottom 1
+    400004: Bottom 10
+    400006: Bottom 11
+    400008: Bottom 12
+    400010: Bottom 13
+    400012: Bottom 14
+    400014: Bottom 15
+    400016: Bottom 16
+    400018: Bottom 17
+    400020: Bottom 18
+    400022: Bottom 19
+    400024: Bottom 2
+    400026: Bottom 20
+    400028: Bottom 21
+    400030: Bottom 22
+    400032: Bottom 23
+    400034: Bottom 24
+    400036: Bottom 25
+    400038: Bottom 3
+    400040: Bottom 4
+    400042: Bottom 5
+    400044: Bottom 6
+    400046: Bottom 7
+    400048: Bottom 8
+    400050: Bottom 9
+    400052: branch_with_leaf_1
+    400054: branch_with_leaf_1 1
+    400056: branch_with_leaf_1 10
+    400058: branch_with_leaf_1 11
+    400060: branch_with_leaf_1 12
+    400062: branch_with_leaf_1 13
+    400064: branch_with_leaf_1 14
+    400066: branch_with_leaf_1 15
+    400068: branch_with_leaf_1 16
+    400070: branch_with_leaf_1 17
+    400072: branch_with_leaf_1 18
+    400074: branch_with_leaf_1 19
+    400076: branch_with_leaf_1 2
+    400078: branch_with_leaf_1 20
+    400080: branch_with_leaf_1 21
+    400082: branch_with_leaf_1 22
+    400084: branch_with_leaf_1 23
+    400086: branch_with_leaf_1 24
+    400088: branch_with_leaf_1 25
+    400090: branch_with_leaf_1 26
+    400092: branch_with_leaf_1 27
+    400094: branch_with_leaf_1 28
+    400096: branch_with_leaf_1 29
+    400098: branch_with_leaf_1 3
+    400100: branch_with_leaf_1 30
+    400102: branch_with_leaf_1 31
+    400104: branch_with_leaf_1 32
+    400106: branch_with_leaf_1 4
+    400108: branch_with_leaf_1 5
+    400110: branch_with_leaf_1 6
+    400112: branch_with_leaf_1 7
+    400114: branch_with_leaf_1 8
+    400116: branch_with_leaf_1 9
+    400118: center
+    400120: center 1
+    400122: center 10
+    400124: center 11
+    400126: center 12
+    400128: center 13
+    400130: center 14
+    400132: center 15
+    400134: center 16
+    400136: center 17
+    400138: center 18
+    400140: center 19
+    400142: center 2
+    400144: center 20
+    400146: center 21
+    400148: center 22
+    400150: center 23
+    400152: center 24
+    400154: center 25
+    400156: center 3
+    400158: center 4
+    400160: center 5
+    400162: center 6
+    400164: center 7
+    400166: center 8
+    400168: center 9
+    400170: group_0
+    400172: group_0 1
+    400174: group_0 10
+    400176: group_0 11
+    400178: group_0 12
+    400180: group_0 13
+    400182: group_0 14
+    400184: group_0 15
+    400186: group_0 16
+    400188: group_0 17
+    400190: group_0 18
+    400192: group_0 19
+    400194: group_0 2
+    400196: group_0 20
+    400198: group_0 21
+    400200: group_0 22
+    400202: group_0 23
+    400204: group_0 24
+    400206: group_0 25
+    400208: group_0 3
+    400210: group_0 4
+    400212: group_0 5
+    400214: group_0 6
+    400216: group_0 7
+    400218: group_0 8
+    400220: group_0 9
+    400222: group_1
+    400224: group_2
+    400226: group_2 1
+    400228: group_2 10
+    400230: group_2 100
+    400232: group_2 101
+    400234: group_2 102
+    400236: group_2 103
+    400238: group_2 104
+    400240: group_2 105
+    400242: group_2 106
+    400244: group_2 107
+    400246: group_2 108
+    400248: group_2 109
+    400250: group_2 11
+    400252: group_2 110
+    400254: group_2 111
+    400256: group_2 112
+    400258: group_2 113
+    400260: group_2 114
+    400262: group_2 115
+    400264: group_2 116
+    400266: group_2 117
+    400268: group_2 118
+    400270: group_2 119
+    400272: group_2 12
+    400274: group_2 120
+    400276: group_2 121
+    400278: group_2 122
+    400280: group_2 123
+    400282: group_2 124
+    400284: group_2 125
+    400286: group_2 126
+    400288: group_2 127
+    400290: group_2 128
+    400292: group_2 129
+    400294: group_2 13
+    400296: group_2 130
+    400298: group_2 131
+    400300: group_2 132
+    400302: group_2 133
+    400304: group_2 134
+    400306: group_2 135
+    400308: group_2 136
+    400310: group_2 137
+    400312: group_2 138
+    400314: group_2 139
+    400316: group_2 14
+    400318: group_2 140
+    400320: group_2 141
+    400322: group_2 142
+    400324: group_2 143
+    400326: group_2 144
+    400328: group_2 145
+    400330: group_2 146
+    400332: group_2 147
+    400334: group_2 148
+    400336: group_2 149
+    400338: group_2 15
+    400340: group_2 150
+    400342: group_2 151
+    400344: group_2 152
+    400346: group_2 153
+    400348: group_2 154
+    400350: group_2 155
+    400352: group_2 156
+    400354: group_2 157
+    400356: group_2 158
+    400358: group_2 159
+    400360: group_2 16
+    400362: group_2 160
+    400364: group_2 161
+    400366: group_2 162
+    400368: group_2 163
+    400370: group_2 164
+    400372: group_2 165
+    400374: group_2 166
+    400376: group_2 167
+    400378: group_2 168
+    400380: group_2 169
+    400382: group_2 17
+    400384: group_2 170
+    400386: group_2 171
+    400388: group_2 172
+    400390: group_2 173
+    400392: group_2 174
+    400394: group_2 175
+    400396: group_2 176
+    400398: group_2 177
+    400400: group_2 178
+    400402: group_2 179
+    400404: group_2 18
+    400406: group_2 19
+    400408: group_2 2
+    400410: group_2 20
+    400412: group_2 21
+    400414: group_2 22
+    400416: group_2 23
+    400418: group_2 24
+    400420: group_2 25
+    400422: group_2 26
+    400424: group_2 27
+    400426: group_2 28
+    400428: group_2 29
+    400430: group_2 3
+    400432: group_2 30
+    400434: group_2 31
+    400436: group_2 32
+    400438: group_2 33
+    400440: group_2 34
+    400442: group_2 35
+    400444: group_2 36
+    400446: group_2 37
+    400448: group_2 38
+    400450: group_2 39
+    400452: group_2 4
+    400454: group_2 40
+    400456: group_2 41
+    400458: group_2 42
+    400460: group_2 43
+    400462: group_2 44
+    400464: group_2 45
+    400466: group_2 46
+    400468: group_2 47
+    400470: group_2 48
+    400472: group_2 49
+    400474: group_2 5
+    400476: group_2 50
+    400478: group_2 51
+    400480: group_2 52
+    400482: group_2 53
+    400484: group_2 54
+    400486: group_2 55
+    400488: group_2 56
+    400490: group_2 57
+    400492: group_2 58
+    400494: group_2 59
+    400496: group_2 6
+    400498: group_2 60
+    400500: group_2 61
+    400502: group_2 62
+    400504: group_2 63
+    400506: group_2 64
+    400508: group_2 65
+    400510: group_2 66
+    400512: group_2 67
+    400514: group_2 68
+    400516: group_2 69
+    400518: group_2 7
+    400520: group_2 70
+    400522: group_2 71
+    400524: group_2 72
+    400526: group_2 73
+    400528: group_2 74
+    400530: group_2 75
+    400532: group_2 76
+    400534: group_2 77
+    400536: group_2 78
+    400538: group_2 79
+    400540: group_2 8
+    400542: group_2 80
+    400544: group_2 81
+    400546: group_2 82
+    400548: group_2 83
+    400550: group_2 84
+    400552: group_2 85
+    400554: group_2 86
+    400556: group_2 87
+    400558: group_2 88
+    400560: group_2 89
+    400562: group_2 9
+    400564: group_2 90
+    400566: group_2 91
+    400568: group_2 92
+    400570: group_2 93
+    400572: group_2 94
+    400574: group_2 95
+    400576: group_2 96
+    400578: group_2 97
+    400580: group_2 98
+    400582: group_2 99
+    400584: ID21
+    400586: ID313
+    400588: ID321
+    400590: ID334
+    400592: ID342
+    400594: ID350
+    400596: ID49
+    400598: ID49 1
+    400600: image_0
+    400602: instance_0
+    400604: instance_1
+    400606: instance_10
+    400608: instance_10 1
+    400610: instance_10 10
+    400612: instance_10 11
+    400614: instance_10 12
+    400616: instance_10 13
+    400618: instance_10 14
+    400620: instance_10 15
+    400622: instance_10 16
+    400624: instance_10 17
+    400626: instance_10 18
+    400628: instance_10 19
+    400630: instance_10 2
+    400632: instance_10 20
+    400634: instance_10 21
+    400636: instance_10 22
+    400638: instance_10 23
+    400640: instance_10 24
+    400642: instance_10 25
+    400644: instance_10 3
+    400646: instance_10 4
+    400648: instance_10 5
+    400650: instance_10 6
+    400652: instance_10 7
+    400654: instance_10 8
+    400656: instance_10 9
+    400658: instance_100
+    400660: instance_11
+    400662: instance_12
+    400664: instance_13
+    400666: instance_14
+    400668: instance_15
+    400670: instance_16
+    400672: instance_17
+    400674: instance_18
+    400676: instance_19
+    400678: instance_2
+    400680: instance_20
+    400682: instance_21
+    400684: instance_22
+    400686: instance_23
+    400688: instance_24
+    400690: instance_25
+    400692: instance_26
+    400694: instance_27
+    400696: instance_28
+    400698: instance_29
+    400700: instance_3
+    400702: instance_30
+    400704: instance_31
+    400706: instance_32
+    400708: instance_33
+    400710: instance_34
+    400712: instance_35
+    400714: instance_36
+    400716: instance_37
+    400718: instance_38
+    400720: instance_39
+    400722: instance_4
+    400724: instance_40
+    400726: instance_41
+    400728: instance_42
+    400730: instance_43
+    400732: instance_44
+    400734: instance_45
+    400736: instance_46
+    400738: instance_47
+    400740: instance_48
+    400742: instance_49
+    400744: instance_5
+    400746: instance_50
+    400748: instance_51
+    400750: instance_51 1
+    400752: instance_51 10
+    400754: instance_51 11
+    400756: instance_51 12
+    400758: instance_51 13
+    400760: instance_51 14
+    400762: instance_51 15
+    400764: instance_51 16
+    400766: instance_51 17
+    400768: instance_51 18
+    400770: instance_51 19
+    400772: instance_51 2
+    400774: instance_51 20
+    400776: instance_51 21
+    400778: instance_51 22
+    400780: instance_51 23
+    400782: instance_51 24
+    400784: instance_51 25
+    400786: instance_51 26
+    400788: instance_51 27
+    400790: instance_51 28
+    400792: instance_51 29
+    400794: instance_51 3
+    400796: instance_51 30
+    400798: instance_51 31
+    400800: instance_51 32
+    400802: instance_51 4
+    400804: instance_51 5
+    400806: instance_51 6
+    400808: instance_51 7
+    400810: instance_51 8
+    400812: instance_51 9
+    400814: instance_52
+    400816: instance_52 1
+    400818: instance_52 10
+    400820: instance_52 11
+    400822: instance_52 12
+    400824: instance_52 13
+    400826: instance_52 14
+    400828: instance_52 15
+    400830: instance_52 16
+    400832: instance_52 17
+    400834: instance_52 18
+    400836: instance_52 19
+    400838: instance_52 2
+    400840: instance_52 20
+    400842: instance_52 21
+    400844: instance_52 22
+    400846: instance_52 23
+    400848: instance_52 24
+    400850: instance_52 25
+    400852: instance_52 26
+    400854: instance_52 27
+    400856: instance_52 28
+    400858: instance_52 29
+    400860: instance_52 3
+    400862: instance_52 30
+    400864: instance_52 31
+    400866: instance_52 32
+    400868: instance_52 4
+    400870: instance_52 5
+    400872: instance_52 6
+    400874: instance_52 7
+    400876: instance_52 8
+    400878: instance_52 9
+    400880: instance_53
+    400882: instance_53 1
+    400884: instance_53 10
+    400886: instance_53 11
+    400888: instance_53 12
+    400890: instance_53 13
+    400892: instance_53 14
+    400894: instance_53 15
+    400896: instance_53 16
+    400898: instance_53 17
+    400900: instance_53 18
+    400902: instance_53 19
+    400904: instance_53 2
+    400906: instance_53 20
+    400908: instance_53 21
+    400910: instance_53 22
+    400912: instance_53 23
+    400914: instance_53 24
+    400916: instance_53 25
+    400918: instance_53 26
+    400920: instance_53 27
+    400922: instance_53 28
+    400924: instance_53 29
+    400926: instance_53 3
+    400928: instance_53 30
+    400930: instance_53 31
+    400932: instance_53 32
+    400934: instance_53 4
+    400936: instance_53 5
+    400938: instance_53 6
+    400940: instance_53 7
+    400942: instance_53 8
+    400944: instance_53 9
+    400946: instance_54
+    400948: instance_54 1
+    400950: instance_54 10
+    400952: instance_54 11
+    400954: instance_54 12
+    400956: instance_54 13
+    400958: instance_54 14
+    400960: instance_54 15
+    400962: instance_54 16
+    400964: instance_54 17
+    400966: instance_54 18
+    400968: instance_54 19
+    400970: instance_54 2
+    400972: instance_54 20
+    400974: instance_54 21
+    400976: instance_54 22
+    400978: instance_54 23
+    400980: instance_54 24
+    400982: instance_54 25
+    400984: instance_54 26
+    400986: instance_54 27
+    400988: instance_54 28
+    400990: instance_54 29
+    400992: instance_54 3
+    400994: instance_54 30
+    400996: instance_54 31
+    400998: instance_54 32
+    401000: instance_54 4
+    401002: instance_54 5
+    401004: instance_54 6
+    401006: instance_54 7
+    401008: instance_54 8
+    401010: instance_54 9
+    401012: instance_55
+    401014: instance_55 1
+    401016: instance_55 10
+    401018: instance_55 11
+    401020: instance_55 12
+    401022: instance_55 13
+    401024: instance_55 14
+    401026: instance_55 15
+    401028: instance_55 16
+    401030: instance_55 17
+    401032: instance_55 18
+    401034: instance_55 19
+    401036: instance_55 2
+    401038: instance_55 20
+    401040: instance_55 21
+    401042: instance_55 22
+    401044: instance_55 23
+    401046: instance_55 24
+    401048: instance_55 25
+    401050: instance_55 26
+    401052: instance_55 27
+    401054: instance_55 28
+    401056: instance_55 29
+    401058: instance_55 3
+    401060: instance_55 30
+    401062: instance_55 31
+    401064: instance_55 32
+    401066: instance_55 4
+    401068: instance_55 5
+    401070: instance_55 6
+    401072: instance_55 7
+    401074: instance_55 8
+    401076: instance_55 9
+    401078: instance_56
+    401080: instance_57
+    401082: instance_58
+    401084: instance_59
+    401086: instance_6
+    401088: instance_6 1
+    401090: instance_6 10
+    401092: instance_6 11
+    401094: instance_6 12
+    401096: instance_6 13
+    401098: instance_6 14
+    401100: instance_6 15
+    401102: instance_6 16
+    401104: instance_6 17
+    401106: instance_6 18
+    401108: instance_6 19
+    401110: instance_6 2
+    401112: instance_6 20
+    401114: instance_6 21
+    401116: instance_6 22
+    401118: instance_6 23
+    401120: instance_6 24
+    401122: instance_6 25
+    401124: instance_6 3
+    401126: instance_6 4
+    401128: instance_6 5
+    401130: instance_6 6
+    401132: instance_6 7
+    401134: instance_6 8
+    401136: instance_6 9
+    401138: instance_60
+    401140: instance_61
+    401142: instance_62
+    401144: instance_63
+    401146: instance_64
+    401148: instance_65
+    401150: instance_66
+    401152: instance_67
+    401154: instance_68
+    401156: instance_69
+    401158: instance_7
+    401160: instance_7 1
+    401162: instance_7 10
+    401164: instance_7 11
+    401166: instance_7 12
+    401168: instance_7 13
+    401170: instance_7 14
+    401172: instance_7 15
+    401174: instance_7 16
+    401176: instance_7 17
+    401178: instance_7 18
+    401180: instance_7 19
+    401182: instance_7 2
+    401184: instance_7 20
+    401186: instance_7 21
+    401188: instance_7 22
+    401190: instance_7 23
+    401192: instance_7 24
+    401194: instance_7 25
+    401196: instance_7 3
+    401198: instance_7 4
+    401200: instance_7 5
+    401202: instance_7 6
+    401204: instance_7 7
+    401206: instance_7 8
+    401208: instance_7 9
+    401210: instance_70
+    401212: instance_71
+    401214: instance_72
+    401216: instance_73
+    401218: instance_74
+    401220: instance_75
+    401222: instance_76
+    401224: instance_77
+    401226: instance_78
+    401228: instance_79
+    401230: instance_8
+    401232: instance_8 1
+    401234: instance_8 10
+    401236: instance_8 11
+    401238: instance_8 12
+    401240: instance_8 13
+    401242: instance_8 14
+    401244: instance_8 15
+    401246: instance_8 16
+    401248: instance_8 17
+    401250: instance_8 18
+    401252: instance_8 19
+    401254: instance_8 2
+    401256: instance_8 20
+    401258: instance_8 21
+    401260: instance_8 22
+    401262: instance_8 23
+    401264: instance_8 24
+    401266: instance_8 25
+    401268: instance_8 3
+    401270: instance_8 4
+    401272: instance_8 5
+    401274: instance_8 6
+    401276: instance_8 7
+    401278: instance_8 8
+    401280: instance_8 9
+    401282: instance_80
+    401284: instance_81
+    401286: instance_82
+    401288: instance_83
+    401290: instance_84
+    401292: instance_85
+    401294: instance_86
+    401296: instance_87
+    401298: instance_88
+    401300: instance_89
+    401302: instance_9
+    401304: instance_9 1
+    401306: instance_9 10
+    401308: instance_9 11
+    401310: instance_9 12
+    401312: instance_9 13
+    401314: instance_9 14
+    401316: instance_9 15
+    401318: instance_9 16
+    401320: instance_9 17
+    401322: instance_9 18
+    401324: instance_9 19
+    401326: instance_9 2
+    401328: instance_9 20
+    401330: instance_9 21
+    401332: instance_9 22
+    401334: instance_9 23
+    401336: instance_9 24
+    401338: instance_9 25
+    401340: instance_9 3
+    401342: instance_9 4
+    401344: instance_9 5
+    401346: instance_9 6
+    401348: instance_9 7
+    401350: instance_9 8
+    401352: instance_9 9
+    401354: instance_90
+    401356: instance_91
+    401358: instance_92
+    401360: instance_93
+    401362: instance_94
+    401364: instance_95
+    401366: instance_96
+    401368: instance_97
+    401370: instance_98
+    401372: instance_99
+    401374: Last Saved SketchUp View
+    401376: leaf
+    401378: leaf 1
+    401380: leaf 10
+    401382: leaf 100
+    401384: leaf 101
+    401386: leaf 102
+    401388: leaf 103
+    401390: leaf 104
+    401392: leaf 105
+    401394: leaf 106
+    401396: leaf 107
+    401398: leaf 108
+    401400: leaf 109
+    401402: leaf 11
+    401404: leaf 110
+    401406: leaf 111
+    401408: leaf 112
+    401410: leaf 113
+    401412: leaf 114
+    401414: leaf 115
+    401416: leaf 116
+    401418: leaf 117
+    401420: leaf 118
+    401422: leaf 119
+    401424: leaf 12
+    401426: leaf 120
+    401428: leaf 121
+    401430: leaf 122
+    401432: leaf 123
+    401434: leaf 124
+    401436: leaf 125
+    401438: leaf 126
+    401440: leaf 127
+    401442: leaf 128
+    401444: leaf 129
+    401446: leaf 13
+    401448: leaf 130
+    401450: leaf 131
+    401452: leaf 132
+    401454: leaf 133
+    401456: leaf 134
+    401458: leaf 135
+    401460: leaf 136
+    401462: leaf 137
+    401464: leaf 138
+    401466: leaf 139
+    401468: leaf 14
+    401470: leaf 140
+    401472: leaf 141
+    401474: leaf 142
+    401476: leaf 143
+    401478: leaf 144
+    401480: leaf 145
+    401482: leaf 146
+    401484: leaf 147
+    401486: leaf 148
+    401488: leaf 149
+    401490: leaf 15
+    401492: leaf 150
+    401494: leaf 151
+    401496: leaf 152
+    401498: leaf 153
+    401500: leaf 154
+    401502: leaf 155
+    401504: leaf 156
+    401506: leaf 157
+    401508: leaf 158
+    401510: leaf 159
+    401512: leaf 16
+    401514: leaf 160
+    401516: leaf 161
+    401518: leaf 162
+    401520: leaf 163
+    401522: leaf 164
+    401524: leaf 165
+    401526: leaf 166
+    401528: leaf 167
+    401530: leaf 168
+    401532: leaf 169
+    401534: leaf 17
+    401536: leaf 170
+    401538: leaf 171
+    401540: leaf 172
+    401542: leaf 173
+    401544: leaf 174
+    401546: leaf 175
+    401548: leaf 176
+    401550: leaf 177
+    401552: leaf 178
+    401554: leaf 179
+    401556: leaf 18
+    401558: leaf 19
+    401560: leaf 2
+    401562: leaf 20
+    401564: leaf 21
+    401566: leaf 22
+    401568: leaf 23
+    401570: leaf 24
+    401572: leaf 25
+    401574: leaf 26
+    401576: leaf 27
+    401578: leaf 28
+    401580: leaf 29
+    401582: leaf 3
+    401584: leaf 30
+    401586: leaf 31
+    401588: leaf 32
+    401590: leaf 33
+    401592: leaf 34
+    401594: leaf 35
+    401596: leaf 36
+    401598: leaf 37
+    401600: leaf 38
+    401602: leaf 39
+    401604: leaf 4
+    401606: leaf 40
+    401608: leaf 41
+    401610: leaf 42
+    401612: leaf 43
+    401614: leaf 44
+    401616: leaf 45
+    401618: leaf 46
+    401620: leaf 47
+    401622: leaf 48
+    401624: leaf 49
+    401626: leaf 5
+    401628: leaf 50
+    401630: leaf 51
+    401632: leaf 52
+    401634: leaf 53
+    401636: leaf 54
+    401638: leaf 55
+    401640: leaf 56
+    401642: leaf 57
+    401644: leaf 58
+    401646: leaf 59
+    401648: leaf 6
+    401650: leaf 60
+    401652: leaf 61
+    401654: leaf 62
+    401656: leaf 63
+    401658: leaf 64
+    401660: leaf 65
+    401662: leaf 66
+    401664: leaf 67
+    401666: leaf 68
+    401668: leaf 69
+    401670: leaf 7
+    401672: leaf 70
+    401674: leaf 71
+    401676: leaf 72
+    401678: leaf 73
+    401680: leaf 74
+    401682: leaf 75
+    401684: leaf 76
+    401686: leaf 77
+    401688: leaf 78
+    401690: leaf 79
+    401692: leaf 8
+    401694: leaf 80
+    401696: leaf 81
+    401698: leaf 82
+    401700: leaf 83
+    401702: leaf 84
+    401704: leaf 85
+    401706: leaf 86
+    401708: leaf 87
+    401710: leaf 88
+    401712: leaf 89
+    401714: leaf 9
+    401716: leaf 90
+    401718: leaf 91
+    401720: leaf 92
+    401722: leaf 93
+    401724: leaf 94
+    401726: leaf 95
+    401728: leaf 96
+    401730: leaf 97
+    401732: leaf 98
+    401734: leaf 99
+    401736: leftside
+    401738: leftside 1
+    401740: leftside 10
+    401742: leftside 11
+    401744: leftside 12
+    401746: leftside 13
+    401748: leftside 14
+    401750: leftside 15
+    401752: leftside 16
+    401754: leftside 17
+    401756: leftside 18
+    401758: leftside 19
+    401760: leftside 2
+    401762: leftside 20
+    401764: leftside 21
+    401766: leftside 22
+    401768: leftside 23
+    401770: leftside 24
+    401772: leftside 25
+    401774: leftside 3
+    401776: leftside 4
+    401778: leftside 5
+    401780: leftside 6
+    401782: leftside 7
+    401784: leftside 8
+    401786: leftside 9
+    401788: //RootNode
+    401790: OakPatch_101b
+    401792: OakPatch_101b 1
+    401794: OakPatch_101b 10
+    401796: OakPatch_101b 11
+    401798: OakPatch_101b 12
+    401800: OakPatch_101b 13
+    401802: OakPatch_101b 14
+    401804: OakPatch_101b 15
+    401806: OakPatch_101b 16
+    401808: OakPatch_101b 17
+    401810: OakPatch_101b 18
+    401812: OakPatch_101b 19
+    401814: OakPatch_101b 2
+    401816: OakPatch_101b 20
+    401818: OakPatch_101b 21
+    401820: OakPatch_101b 22
+    401822: OakPatch_101b 23
+    401824: OakPatch_101b 24
+    401826: OakPatch_101b 25
+    401828: OakPatch_101b 3
+    401830: OakPatch_101b 4
+    401832: OakPatch_101b 5
+    401834: OakPatch_101b 6
+    401836: OakPatch_101b 7
+    401838: OakPatch_101b 8
+    401840: OakPatch_101b 9
+    401842: rightside
+    401844: rightside 1
+    401846: rightside 10
+    401848: rightside 11
+    401850: rightside 12
+    401852: rightside 13
+    401854: rightside 14
+    401856: rightside 15
+    401858: rightside 16
+    401860: rightside 17
+    401862: rightside 18
+    401864: rightside 19
+    401866: rightside 2
+    401868: rightside 20
+    401870: rightside 21
+    401872: rightside 22
+    401874: rightside 23
+    401876: rightside 24
+    401878: rightside 25
+    401880: rightside 3
+    401882: rightside 4
+    401884: rightside 5
+    401886: rightside 6
+    401888: rightside 7
+    401890: rightside 8
+    401892: rightside 9
+    401894: ske5A
+    401896: ske5B
+    401898: top
+    401900: top 1
+    401902: top 10
+    401904: top 11
+    401906: top 12
+    401908: top 13
+    401910: top 14
+    401912: top 15
+    401914: top 16
+    401916: top 17
+    401918: top 18
+    401920: top 19
+    401922: top 2
+    401924: top 20
+    401926: top 21
+    401928: top 22
+    401930: top 23
+    401932: top 24
+    401934: top 25
+    401936: top 3
+    401938: top 4
+    401940: top 5
+    401942: top 6
+    401944: top 7
+    401946: top 8
+    401948: top 9
+    401950: tree2
+    401952: Tree_Deciduous_Ash_HighPolygon
+    401954: treePart3
+    401956: treePart3 1
+    401958: treePart3 2
+    401960: trunk
+    401962: trunk 1
+    401964: trunk 2
+    401966: trunk 3
+    401968: trunk 4
+    401970: trunk 5
+    401972: trunk 6
+    401974: trunk 7
+    401976: trunk 8
+    401978: trunk_1
+    2300000: Bottom
+    2300002: Bottom 1
+    2300004: Bottom 10
+    2300006: Bottom 11
+    2300008: Bottom 12
+    2300010: Bottom 13
+    2300012: Bottom 14
+    2300014: Bottom 15
+    2300016: Bottom 16
+    2300018: Bottom 17
+    2300020: Bottom 18
+    2300022: Bottom 19
+    2300024: Bottom 2
+    2300026: Bottom 20
+    2300028: Bottom 21
+    2300030: Bottom 22
+    2300032: Bottom 23
+    2300034: Bottom 24
+    2300036: Bottom 25
+    2300038: Bottom 3
+    2300040: Bottom 4
+    2300042: Bottom 5
+    2300044: Bottom 6
+    2300046: Bottom 7
+    2300048: Bottom 8
+    2300050: Bottom 9
+    2300052: center
+    2300054: center 1
+    2300056: center 10
+    2300058: center 11
+    2300060: center 12
+    2300062: center 13
+    2300064: center 14
+    2300066: center 15
+    2300068: center 16
+    2300070: center 17
+    2300072: center 18
+    2300074: center 19
+    2300076: center 2
+    2300078: center 20
+    2300080: center 21
+    2300082: center 22
+    2300084: center 23
+    2300086: center 24
+    2300088: center 25
+    2300090: center 3
+    2300092: center 4
+    2300094: center 5
+    2300096: center 6
+    2300098: center 7
+    2300100: center 8
+    2300102: center 9
+    2300104: group_2
+    2300106: group_2 1
+    2300108: group_2 10
+    2300110: group_2 100
+    2300112: group_2 101
+    2300114: group_2 102
+    2300116: group_2 103
+    2300118: group_2 104
+    2300120: group_2 105
+    2300122: group_2 106
+    2300124: group_2 107
+    2300126: group_2 108
+    2300128: group_2 109
+    2300130: group_2 11
+    2300132: group_2 110
+    2300134: group_2 111
+    2300136: group_2 112
+    2300138: group_2 113
+    2300140: group_2 114
+    2300142: group_2 115
+    2300144: group_2 116
+    2300146: group_2 117
+    2300148: group_2 118
+    2300150: group_2 119
+    2300152: group_2 12
+    2300154: group_2 120
+    2300156: group_2 121
+    2300158: group_2 122
+    2300160: group_2 123
+    2300162: group_2 124
+    2300164: group_2 125
+    2300166: group_2 126
+    2300168: group_2 127
+    2300170: group_2 128
+    2300172: group_2 129
+    2300174: group_2 13
+    2300176: group_2 130
+    2300178: group_2 131
+    2300180: group_2 132
+    2300182: group_2 133
+    2300184: group_2 134
+    2300186: group_2 135
+    2300188: group_2 136
+    2300190: group_2 137
+    2300192: group_2 138
+    2300194: group_2 139
+    2300196: group_2 14
+    2300198: group_2 140
+    2300200: group_2 141
+    2300202: group_2 142
+    2300204: group_2 143
+    2300206: group_2 144
+    2300208: group_2 145
+    2300210: group_2 146
+    2300212: group_2 147
+    2300214: group_2 148
+    2300216: group_2 149
+    2300218: group_2 15
+    2300220: group_2 150
+    2300222: group_2 151
+    2300224: group_2 152
+    2300226: group_2 153
+    2300228: group_2 154
+    2300230: group_2 155
+    2300232: group_2 156
+    2300234: group_2 157
+    2300236: group_2 158
+    2300238: group_2 159
+    2300240: group_2 16
+    2300242: group_2 160
+    2300244: group_2 161
+    2300246: group_2 162
+    2300248: group_2 163
+    2300250: group_2 164
+    2300252: group_2 165
+    2300254: group_2 166
+    2300256: group_2 167
+    2300258: group_2 168
+    2300260: group_2 169
+    2300262: group_2 17
+    2300264: group_2 170
+    2300266: group_2 171
+    2300268: group_2 172
+    2300270: group_2 173
+    2300272: group_2 174
+    2300274: group_2 175
+    2300276: group_2 176
+    2300278: group_2 177
+    2300280: group_2 178
+    2300282: group_2 179
+    2300284: group_2 18
+    2300286: group_2 19
+    2300288: group_2 2
+    2300290: group_2 20
+    2300292: group_2 21
+    2300294: group_2 22
+    2300296: group_2 23
+    2300298: group_2 24
+    2300300: group_2 25
+    2300302: group_2 26
+    2300304: group_2 27
+    2300306: group_2 28
+    2300308: group_2 29
+    2300310: group_2 3
+    2300312: group_2 30
+    2300314: group_2 31
+    2300316: group_2 32
+    2300318: group_2 33
+    2300320: group_2 34
+    2300322: group_2 35
+    2300324: group_2 36
+    2300326: group_2 37
+    2300328: group_2 38
+    2300330: group_2 39
+    2300332: group_2 4
+    2300334: group_2 40
+    2300336: group_2 41
+    2300338: group_2 42
+    2300340: group_2 43
+    2300342: group_2 44
+    2300344: group_2 45
+    2300346: group_2 46
+    2300348: group_2 47
+    2300350: group_2 48
+    2300352: group_2 49
+    2300354: group_2 5
+    2300356: group_2 50
+    2300358: group_2 51
+    2300360: group_2 52
+    2300362: group_2 53
+    2300364: group_2 54
+    2300366: group_2 55
+    2300368: group_2 56
+    2300370: group_2 57
+    2300372: group_2 58
+    2300374: group_2 59
+    2300376: group_2 6
+    2300378: group_2 60
+    2300380: group_2 61
+    2300382: group_2 62
+    2300384: group_2 63
+    2300386: group_2 64
+    2300388: group_2 65
+    2300390: group_2 66
+    2300392: group_2 67
+    2300394: group_2 68
+    2300396: group_2 69
+    2300398: group_2 7
+    2300400: group_2 70
+    2300402: group_2 71
+    2300404: group_2 72
+    2300406: group_2 73
+    2300408: group_2 74
+    2300410: group_2 75
+    2300412: group_2 76
+    2300414: group_2 77
+    2300416: group_2 78
+    2300418: group_2 79
+    2300420: group_2 8
+    2300422: group_2 80
+    2300424: group_2 81
+    2300426: group_2 82
+    2300428: group_2 83
+    2300430: group_2 84
+    2300432: group_2 85
+    2300434: group_2 86
+    2300436: group_2 87
+    2300438: group_2 88
+    2300440: group_2 89
+    2300442: group_2 9
+    2300444: group_2 90
+    2300446: group_2 91
+    2300448: group_2 92
+    2300450: group_2 93
+    2300452: group_2 94
+    2300454: group_2 95
+    2300456: group_2 96
+    2300458: group_2 97
+    2300460: group_2 98
+    2300462: group_2 99
+    2300464: ID21
+    2300466: ID313
+    2300468: ID321
+    2300470: ID334
+    2300472: ID342
+    2300474: ID350
+    2300476: ID49
+    2300478: ID49 1
+    2300480: image_0
+    2300482: leftside
+    2300484: leftside 1
+    2300486: leftside 10
+    2300488: leftside 11
+    2300490: leftside 12
+    2300492: leftside 13
+    2300494: leftside 14
+    2300496: leftside 15
+    2300498: leftside 16
+    2300500: leftside 17
+    2300502: leftside 18
+    2300504: leftside 19
+    2300506: leftside 2
+    2300508: leftside 20
+    2300510: leftside 21
+    2300512: leftside 22
+    2300514: leftside 23
+    2300516: leftside 24
+    2300518: leftside 25
+    2300520: leftside 3
+    2300522: leftside 4
+    2300524: leftside 5
+    2300526: leftside 6
+    2300528: leftside 7
+    2300530: leftside 8
+    2300532: leftside 9
+    2300534: //RootNode
+    2300536: rightside
+    2300538: rightside 1
+    2300540: rightside 10
+    2300542: rightside 11
+    2300544: rightside 12
+    2300546: rightside 13
+    2300548: rightside 14
+    2300550: rightside 15
+    2300552: rightside 16
+    2300554: rightside 17
+    2300556: rightside 18
+    2300558: rightside 19
+    2300560: rightside 2
+    2300562: rightside 20
+    2300564: rightside 21
+    2300566: rightside 22
+    2300568: rightside 23
+    2300570: rightside 24
+    2300572: rightside 25
+    2300574: rightside 3
+    2300576: rightside 4
+    2300578: rightside 5
+    2300580: rightside 6
+    2300582: rightside 7
+    2300584: rightside 8
+    2300586: rightside 9
+    2300588: top
+    2300590: top 1
+    2300592: top 10
+    2300594: top 11
+    2300596: top 12
+    2300598: top 13
+    2300600: top 14
+    2300602: top 15
+    2300604: top 16
+    2300606: top 17
+    2300608: top 18
+    2300610: top 19
+    2300612: top 2
+    2300614: top 20
+    2300616: top 21
+    2300618: top 22
+    2300620: top 23
+    2300622: top 24
+    2300624: top 25
+    2300626: top 3
+    2300628: top 4
+    2300630: top 5
+    2300632: top 6
+    2300634: top 7
+    2300636: top 8
+    2300638: top 9
+    2300640: tree2
+    2300642: treePart3
+    2300644: treePart3 1
+    2300646: treePart3 2
+    2300648: trunk
+    2300650: trunk 1
+    2300652: trunk 2
+    2300654: trunk 3
+    2300656: trunk 4
+    2300658: trunk 5
+    2300660: trunk 6
+    2300662: trunk 7
+    2300664: trunk 8
+    2300666: trunk_1
+    3300000: Bottom
+    3300002: Bottom 1
+    3300004: Bottom 10
+    3300006: Bottom 11
+    3300008: Bottom 12
+    3300010: Bottom 13
+    3300012: Bottom 14
+    3300014: Bottom 15
+    3300016: Bottom 16
+    3300018: Bottom 17
+    3300020: Bottom 18
+    3300022: Bottom 19
+    3300024: Bottom 2
+    3300026: Bottom 20
+    3300028: Bottom 21
+    3300030: Bottom 22
+    3300032: Bottom 23
+    3300034: Bottom 24
+    3300036: Bottom 25
+    3300038: Bottom 3
+    3300040: Bottom 4
+    3300042: Bottom 5
+    3300044: Bottom 6
+    3300046: Bottom 7
+    3300048: Bottom 8
+    3300050: Bottom 9
+    3300052: center
+    3300054: center 1
+    3300056: center 10
+    3300058: center 11
+    3300060: center 12
+    3300062: center 13
+    3300064: center 14
+    3300066: center 15
+    3300068: center 16
+    3300070: center 17
+    3300072: center 18
+    3300074: center 19
+    3300076: center 2
+    3300078: center 20
+    3300080: center 21
+    3300082: center 22
+    3300084: center 23
+    3300086: center 24
+    3300088: center 25
+    3300090: center 3
+    3300092: center 4
+    3300094: center 5
+    3300096: center 6
+    3300098: center 7
+    3300100: center 8
+    3300102: center 9
+    3300104: group_2
+    3300106: group_2 1
+    3300108: group_2 10
+    3300110: group_2 100
+    3300112: group_2 101
+    3300114: group_2 102
+    3300116: group_2 103
+    3300118: group_2 104
+    3300120: group_2 105
+    3300122: group_2 106
+    3300124: group_2 107
+    3300126: group_2 108
+    3300128: group_2 109
+    3300130: group_2 11
+    3300132: group_2 110
+    3300134: group_2 111
+    3300136: group_2 112
+    3300138: group_2 113
+    3300140: group_2 114
+    3300142: group_2 115
+    3300144: group_2 116
+    3300146: group_2 117
+    3300148: group_2 118
+    3300150: group_2 119
+    3300152: group_2 12
+    3300154: group_2 120
+    3300156: group_2 121
+    3300158: group_2 122
+    3300160: group_2 123
+    3300162: group_2 124
+    3300164: group_2 125
+    3300166: group_2 126
+    3300168: group_2 127
+    3300170: group_2 128
+    3300172: group_2 129
+    3300174: group_2 13
+    3300176: group_2 130
+    3300178: group_2 131
+    3300180: group_2 132
+    3300182: group_2 133
+    3300184: group_2 134
+    3300186: group_2 135
+    3300188: group_2 136
+    3300190: group_2 137
+    3300192: group_2 138
+    3300194: group_2 139
+    3300196: group_2 14
+    3300198: group_2 140
+    3300200: group_2 141
+    3300202: group_2 142
+    3300204: group_2 143
+    3300206: group_2 144
+    3300208: group_2 145
+    3300210: group_2 146
+    3300212: group_2 147
+    3300214: group_2 148
+    3300216: group_2 149
+    3300218: group_2 15
+    3300220: group_2 150
+    3300222: group_2 151
+    3300224: group_2 152
+    3300226: group_2 153
+    3300228: group_2 154
+    3300230: group_2 155
+    3300232: group_2 156
+    3300234: group_2 157
+    3300236: group_2 158
+    3300238: group_2 159
+    3300240: group_2 16
+    3300242: group_2 160
+    3300244: group_2 161
+    3300246: group_2 162
+    3300248: group_2 163
+    3300250: group_2 164
+    3300252: group_2 165
+    3300254: group_2 166
+    3300256: group_2 167
+    3300258: group_2 168
+    3300260: group_2 169
+    3300262: group_2 17
+    3300264: group_2 170
+    3300266: group_2 171
+    3300268: group_2 172
+    3300270: group_2 173
+    3300272: group_2 174
+    3300274: group_2 175
+    3300276: group_2 176
+    3300278: group_2 177
+    3300280: group_2 178
+    3300282: group_2 179
+    3300284: group_2 18
+    3300286: group_2 19
+    3300288: group_2 2
+    3300290: group_2 20
+    3300292: group_2 21
+    3300294: group_2 22
+    3300296: group_2 23
+    3300298: group_2 24
+    3300300: group_2 25
+    3300302: group_2 26
+    3300304: group_2 27
+    3300306: group_2 28
+    3300308: group_2 29
+    3300310: group_2 3
+    3300312: group_2 30
+    3300314: group_2 31
+    3300316: group_2 32
+    3300318: group_2 33
+    3300320: group_2 34
+    3300322: group_2 35
+    3300324: group_2 36
+    3300326: group_2 37
+    3300328: group_2 38
+    3300330: group_2 39
+    3300332: group_2 4
+    3300334: group_2 40
+    3300336: group_2 41
+    3300338: group_2 42
+    3300340: group_2 43
+    3300342: group_2 44
+    3300344: group_2 45
+    3300346: group_2 46
+    3300348: group_2 47
+    3300350: group_2 48
+    3300352: group_2 49
+    3300354: group_2 5
+    3300356: group_2 50
+    3300358: group_2 51
+    3300360: group_2 52
+    3300362: group_2 53
+    3300364: group_2 54
+    3300366: group_2 55
+    3300368: group_2 56
+    3300370: group_2 57
+    3300372: group_2 58
+    3300374: group_2 59
+    3300376: group_2 6
+    3300378: group_2 60
+    3300380: group_2 61
+    3300382: group_2 62
+    3300384: group_2 63
+    3300386: group_2 64
+    3300388: group_2 65
+    3300390: group_2 66
+    3300392: group_2 67
+    3300394: group_2 68
+    3300396: group_2 69
+    3300398: group_2 7
+    3300400: group_2 70
+    3300402: group_2 71
+    3300404: group_2 72
+    3300406: group_2 73
+    3300408: group_2 74
+    3300410: group_2 75
+    3300412: group_2 76
+    3300414: group_2 77
+    3300416: group_2 78
+    3300418: group_2 79
+    3300420: group_2 8
+    3300422: group_2 80
+    3300424: group_2 81
+    3300426: group_2 82
+    3300428: group_2 83
+    3300430: group_2 84
+    3300432: group_2 85
+    3300434: group_2 86
+    3300436: group_2 87
+    3300438: group_2 88
+    3300440: group_2 89
+    3300442: group_2 9
+    3300444: group_2 90
+    3300446: group_2 91
+    3300448: group_2 92
+    3300450: group_2 93
+    3300452: group_2 94
+    3300454: group_2 95
+    3300456: group_2 96
+    3300458: group_2 97
+    3300460: group_2 98
+    3300462: group_2 99
+    3300464: ID21
+    3300466: ID313
+    3300468: ID321
+    3300470: ID334
+    3300472: ID342
+    3300474: ID350
+    3300476: ID49
+    3300478: ID49 1
+    3300480: image_0
+    3300482: leftside
+    3300484: leftside 1
+    3300486: leftside 10
+    3300488: leftside 11
+    3300490: leftside 12
+    3300492: leftside 13
+    3300494: leftside 14
+    3300496: leftside 15
+    3300498: leftside 16
+    3300500: leftside 17
+    3300502: leftside 18
+    3300504: leftside 19
+    3300506: leftside 2
+    3300508: leftside 20
+    3300510: leftside 21
+    3300512: leftside 22
+    3300514: leftside 23
+    3300516: leftside 24
+    3300518: leftside 25
+    3300520: leftside 3
+    3300522: leftside 4
+    3300524: leftside 5
+    3300526: leftside 6
+    3300528: leftside 7
+    3300530: leftside 8
+    3300532: leftside 9
+    3300534: //RootNode
+    3300536: rightside
+    3300538: rightside 1
+    3300540: rightside 10
+    3300542: rightside 11
+    3300544: rightside 12
+    3300546: rightside 13
+    3300548: rightside 14
+    3300550: rightside 15
+    3300552: rightside 16
+    3300554: rightside 17
+    3300556: rightside 18
+    3300558: rightside 19
+    3300560: rightside 2
+    3300562: rightside 20
+    3300564: rightside 21
+    3300566: rightside 22
+    3300568: rightside 23
+    3300570: rightside 24
+    3300572: rightside 25
+    3300574: rightside 3
+    3300576: rightside 4
+    3300578: rightside 5
+    3300580: rightside 6
+    3300582: rightside 7
+    3300584: rightside 8
+    3300586: rightside 9
+    3300588: top
+    3300590: top 1
+    3300592: top 10
+    3300594: top 11
+    3300596: top 12
+    3300598: top 13
+    3300600: top 14
+    3300602: top 15
+    3300604: top 16
+    3300606: top 17
+    3300608: top 18
+    3300610: top 19
+    3300612: top 2
+    3300614: top 20
+    3300616: top 21
+    3300618: top 22
+    3300620: top 23
+    3300622: top 24
+    3300624: top 25
+    3300626: top 3
+    3300628: top 4
+    3300630: top 5
+    3300632: top 6
+    3300634: top 7
+    3300636: top 8
+    3300638: top 9
+    3300640: tree2
+    3300642: treePart3
+    3300644: treePart3 1
+    3300646: treePart3 2
+    3300648: trunk
+    3300650: trunk 1
+    3300652: trunk 2
+    3300654: trunk 3
+    3300656: trunk 4
+    3300658: trunk 5
+    3300660: trunk 6
+    3300662: trunk 7
+    3300664: trunk 8
+    3300666: trunk_1
+    4300000: SketchUp
+    4300002: ID313
+    4300004: ID321
+    4300006: ID334
+    4300008: ID342
+    4300010: ID350
+    4300012: treePart3
+    4300014: ID21
+    4300016: tree2
+    4300018: treePart3
+    4300020: ID49
+    4300022: center
+    4300024: leftside
+    4300026: rightside
+    4300028: top
+    4300030: Bottom
+    4300032: trunk
+    4300034: trunk_1
+    4300036: group_2
+    4300038: group_2
+    4300040: image_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
