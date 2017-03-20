@@ -3,6 +3,8 @@
 Shader "FX/SimpleWater4" {
 Properties {
 	_ReflectionTex ("Internal reflection", 2D) = "white" {}
+	_LeftEyeTexture("Left Eye Texture", 2D) = "white" {}
+	_RightEyeTexture("Right Eye Texture", 2D) = "white" {}
 	
 	_MainTex ("Fallback texture", 2D) = "black" {}
 	_BumpMap ("Normals ", 2D) = "bump" {}

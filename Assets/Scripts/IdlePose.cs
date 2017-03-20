@@ -32,10 +32,10 @@ public class IdlePose : MonoBehaviour {
         timer += Time.deltaTime;
         if (timer < 20)
         {
-            RotAmount = Mathf.Sin(Time.time) * (timer / 40); 
+            RotAmount = Mathf.Sin(Time.time) * (timer / 40) * SinFactor; 
         } else
         {
-            RotAmount = Mathf.Sin(Time.time) * 0.5f;
+            RotAmount = Mathf.Sin(Time.time) * 0.5f * SinFactor;
         }
         ActualMovement = (RotAmount - OldRotAmount);
         PlayerSpine.Rotate(0, 0, ActualMovement * 2, Space.Self);

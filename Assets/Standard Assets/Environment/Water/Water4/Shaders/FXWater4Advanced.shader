@@ -3,6 +3,8 @@
 Shader "FX/Water4" {
 Properties {
 	_ReflectionTex ("Internal reflection", 2D) = "white" {}
+	[HideInInspector] _LeftReflectionTex("", 2D) = "white" {}
+	[HideInInspector] _RightReflectionTex("", 2D) = "white" {}
 	
 	_MainTex ("Fallback texture", 2D) = "black" {}
 	_ShoreTex ("Shore & Foam texture ", 2D) = "black" {}
