@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: bbedb3d11a0833942b0354411439d50a
+timeCreated: 1490031101
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: box
+    100002: box 1
+    100004: box 2
+    100006: box 3
+    100008: cylinder
+    100010: cylinder 1
+    100012: cylinder 10
+    100014: cylinder 11
+    100016: cylinder 12
+    100018: cylinder 13
+    100020: cylinder 14
+    100022: cylinder 15
+    100024: cylinder 16
+    100026: cylinder 17
+    100028: cylinder 18
+    100030: cylinder 19
+    100032: cylinder 2
+    100034: cylinder 20
+    100036: cylinder 21
+    100038: cylinder 22
+    100040: cylinder 23
+    100042: cylinder 24
+    100044: cylinder 25
+    100046: cylinder 26
+    100048: cylinder 27
+    100050: cylinder 28
+    100052: cylinder 29
+    100054: cylinder 3
+    100056: cylinder 30
+    100058: cylinder 31
+    100060: cylinder 32
+    100062: cylinder 33
+    100064: cylinder 34
+    100066: cylinder 35
+    100068: cylinder 36
+    100070: cylinder 37
+    100072: cylinder 38
+    100074: cylinder 39
+    100076: cylinder 4
+    100078: cylinder 40
+    100080: cylinder 41
+    100082: cylinder 42
+    100084: cylinder 5
+    100086: cylinder 6
+    100088: cylinder 7
+    100090: cylinder 8
+    100092: cylinder 9
+    100094: group_0
+    100096: group_1
+    100098: group_2
+    100100: group_3
+    100102: ID117
+    100104: ID130
+    100106: ID143
+    100108: ID156
+    100110: ID164
+    100112: ID172
+    100114: ID178
+    100116: ID184
+    100118: ID190
+    100120: ID196
+    100122: ID202
+    100124: ID299
+    100126: ID307
+    100128: ID315
+    100130: ID323
+    100132: ID329
+    100134: ID335
+    100136: ID339
+    100138: ID461
+    100140: ID467
+    100142: ID484
+    100144: ID490
+    100146: ID507
+    100148: ID513
+    100150: ID529
+    100152: ID643
+    100154: ID651
+    100156: ID659
+    100158: ID667
+    100160: ID675
+    100162: ID681
+    100164: ID687
+    100166: ID693
+    100168: ID699
+    100170: ID705
+    100172: ID711
+    100174: instance_0
+    100176: Killian_s_Medival_Home_Idea
+    100178: Last Saved SketchUp View
+    100180: //RootNode
+    400000: box
+    400002: box 1
+    400004: box 2
+    400006: box 3
+    400008: cylinder
+    400010: cylinder 1
+    400012: cylinder 10
+    400014: cylinder 11
+    400016: cylinder 12
+    400018: cylinder 13
+    400020: cylinder 14
+    400022: cylinder 15
+    400024: cylinder 16
+    400026: cylinder 17
+    400028: cylinder 18
+    400030: cylinder 19
+    400032: cylinder 2
+    400034: cylinder 20
+    400036: cylinder 21
+    400038: cylinder 22
+    400040: cylinder 23
+    400042: cylinder 24
+    400044: cylinder 25
+    400046: cylinder 26
+    400048: cylinder 27
+    400050: cylinder 28
+    400052: cylinder 29
+    400054: cylinder 3
+    400056: cylinder 30
+    400058: cylinder 31
+    400060: cylinder 32
+    400062: cylinder 33
+    400064: cylinder 34
+    400066: cylinder 35
+    400068: cylinder 36
+    400070: cylinder 37
+    400072: cylinder 38
+    400074: cylinder 39
+    400076: cylinder 4
+    400078: cylinder 40
+    400080: cylinder 41
+    400082: cylinder 42
+    400084: cylinder 5
+    400086: cylinder 6
+    400088: cylinder 7
+    400090: cylinder 8
+    400092: cylinder 9
+    400094: group_0
+    400096: group_1
+    400098: group_2
+    400100: group_3
+    400102: ID117
+    400104: ID130
+    400106: ID143
+    400108: ID156
+    400110: ID164
+    400112: ID172
+    400114: ID178
+    400116: ID184
+    400118: ID190
+    400120: ID196
+    400122: ID202
+    400124: ID299
+    400126: ID307
+    400128: ID315
+    400130: ID323
+    400132: ID329
+    400134: ID335
+    400136: ID339
+    400138: ID461
+    400140: ID467
+    400142: ID484
+    400144: ID490
+    400146: ID507
+    400148: ID513
+    400150: ID529
+    400152: ID643
+    400154: ID651
+    400156: ID659
+    400158: ID667
+    400160: ID675
+    400162: ID681
+    400164: ID687
+    400166: ID693
+    400168: ID699
+    400170: ID705
+    400172: ID711
+    400174: instance_0
+    400176: Killian_s_Medival_Home_Idea
+    400178: Last Saved SketchUp View
+    400180: //RootNode
+    2300000: box
+    2300002: box 1
+    2300004: box 2
+    2300006: box 3
+    2300008: cylinder
+    2300010: cylinder 1
+    2300012: cylinder 10
+    2300014: cylinder 11
+    2300016: cylinder 12
+    2300018: cylinder 13
+    2300020: cylinder 14
+    2300022: cylinder 15
+    2300024: cylinder 16
+    2300026: cylinder 17
+    2300028: cylinder 18
+    2300030: cylinder 19
+    2300032: cylinder 2
+    2300034: cylinder 20
+    2300036: cylinder 21
+    2300038: cylinder 22
+    2300040: cylinder 23
+    2300042: cylinder 24
+    2300044: cylinder 25
+    2300046: cylinder 26
+    2300048: cylinder 27
+    2300050: cylinder 28
+    2300052: cylinder 29
+    2300054: cylinder 3
+    2300056: cylinder 30
+    2300058: cylinder 31
+    2300060: cylinder 32
+    2300062: cylinder 33
+    2300064: cylinder 34
+    2300066: cylinder 35
+    2300068: cylinder 36
+    2300070: cylinder 37
+    2300072: cylinder 38
+    2300074: cylinder 39
+    2300076: cylinder 4
+    2300078: cylinder 40
+    2300080: cylinder 41
+    2300082: cylinder 42
+    2300084: cylinder 5
+    2300086: cylinder 6
+    2300088: cylinder 7
+    2300090: cylinder 8
+    2300092: cylinder 9
+    2300094: group_1
+    2300096: group_2
+    2300098: group_3
+    2300100: ID117
+    2300102: ID130
+    2300104: ID143
+    2300106: ID156
+    2300108: ID164
+    2300110: ID172
+    2300112: ID178
+    2300114: ID184
+    2300116: ID190
+    2300118: ID196
+    2300120: ID202
+    2300122: ID299
+    2300124: ID307
+    2300126: ID315
+    2300128: ID323
+    2300130: ID461
+    2300132: ID467
+    2300134: ID484
+    2300136: ID490
+    2300138: ID507
+    2300140: ID513
+    2300142: ID529
+    2300144: ID643
+    2300146: ID651
+    2300148: ID659
+    2300150: ID667
+    2300152: ID675
+    2300154: ID681
+    2300156: ID687
+    2300158: ID693
+    2300160: ID699
+    2300162: ID705
+    2300164: ID711
+    3300000: box
+    3300002: box 1
+    3300004: box 2
+    3300006: box 3
+    3300008: cylinder
+    3300010: cylinder 1
+    3300012: cylinder 10
+    3300014: cylinder 11
+    3300016: cylinder 12
+    3300018: cylinder 13
+    3300020: cylinder 14
+    3300022: cylinder 15
+    3300024: cylinder 16
+    3300026: cylinder 17
+    3300028: cylinder 18
+    3300030: cylinder 19
+    3300032: cylinder 2
+    3300034: cylinder 20
+    3300036: cylinder 21
+    3300038: cylinder 22
+    3300040: cylinder 23
+    3300042: cylinder 24
+    3300044: cylinder 25
+    3300046: cylinder 26
+    3300048: cylinder 27
+    3300050: cylinder 28
+    3300052: cylinder 29
+    3300054: cylinder 3
+    3300056: cylinder 30
+    3300058: cylinder 31
+    3300060: cylinder 32
+    3300062: cylinder 33
+    3300064: cylinder 34
+    3300066: cylinder 35
+    3300068: cylinder 36
+    3300070: cylinder 37
+    3300072: cylinder 38
+    3300074: cylinder 39
+    3300076: cylinder 4
+    3300078: cylinder 40
+    3300080: cylinder 41
+    3300082: cylinder 42
+    3300084: cylinder 5
+    3300086: cylinder 6
+    3300088: cylinder 7
+    3300090: cylinder 8
+    3300092: cylinder 9
+    3300094: group_1
+    3300096: group_2
+    3300098: group_3
+    3300100: ID117
+    3300102: ID130
+    3300104: ID143
+    3300106: ID156
+    3300108: ID164
+    3300110: ID172
+    3300112: ID178
+    3300114: ID184
+    3300116: ID190
+    3300118: ID196
+    3300120: ID202
+    3300122: ID299
+    3300124: ID307
+    3300126: ID315
+    3300128: ID323
+    3300130: ID461
+    3300132: ID467
+    3300134: ID484
+    3300136: ID490
+    3300138: ID507
+    3300140: ID513
+    3300142: ID529
+    3300144: ID643
+    3300146: ID651
+    3300148: ID659
+    3300150: ID667
+    3300152: ID675
+    3300154: ID681
+    3300156: ID687
+    3300158: ID693
+    3300160: ID699
+    3300162: ID705
+    3300164: ID711
+    4300000: box
+    4300002: ID117
+    4300004: ID130
+    4300006: ID143
+    4300008: ID156
+    4300010: ID164
+    4300012: ID172
+    4300014: ID178
+    4300016: ID184
+    4300018: ID190
+    4300020: ID196
+    4300022: ID202
+    4300024: cylinder
+    4300026: cylinder
+    4300028: cylinder
+    4300030: cylinder
+    4300032: cylinder
+    4300034: cylinder
+    4300036: cylinder
+    4300038: cylinder
+    4300040: cylinder
+    4300042: cylinder
+    4300044: cylinder
+    4300046: box
+    4300048: ID299
+    4300050: ID307
+    4300052: ID315
+    4300054: ID323
+    4300056: cylinder
+    4300058: cylinder
+    4300060: cylinder
+    4300062: cylinder
+    4300064: cylinder
+    4300066: cylinder
+    4300068: cylinder
+    4300070: cylinder
+    4300072: cylinder
+    4300074: box
+    4300076: ID529
+    4300078: cylinder
+    4300080: cylinder
+    4300082: cylinder
+    4300084: cylinder
+    4300086: cylinder
+    4300088: cylinder
+    4300090: cylinder
+    4300092: cylinder
+    4300094: cylinder
+    4300096: cylinder
+    4300098: cylinder
+    4300100: cylinder
+    4300102: group_1
+    4300104: ID461
+    4300106: ID467
+    4300108: group_2
+    4300110: ID484
+    4300112: ID490
+    4300114: group_3
+    4300116: ID507
+    4300118: ID513
+    4300120: box
+    4300122: ID643
+    4300124: ID651
+    4300126: ID659
+    4300128: ID667
+    4300130: ID675
+    4300132: ID681
+    4300134: ID687
+    4300136: ID693
+    4300138: ID699
+    4300140: ID705
+    4300142: ID711
+    4300144: cylinder
+    4300146: cylinder
+    4300148: cylinder
+    4300150: cylinder
+    4300152: cylinder
+    4300154: cylinder
+    4300156: cylinder
+    4300158: cylinder
+    4300160: cylinder
+    4300162: cylinder
+    4300164: cylinder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

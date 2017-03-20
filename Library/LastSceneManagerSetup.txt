@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VRTestt1.unity
+- path: Assets/town.unity
   isLoaded: 1
   isActive: 1
