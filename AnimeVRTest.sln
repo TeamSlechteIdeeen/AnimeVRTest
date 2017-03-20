@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest", "AnimeVRTest.csproj", "{C45AAC98-A9C8-CD1F-C15B-AF4573C8EAC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest.CSharp.Plugins", "AnimeVRTest.CSharp.Plugins.csproj", "{5114ECB1-A3E0-9347-DB98-1006F2FDD6F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest.Editor", "AnimeVRTest.Editor.csproj", "{10A5CB1A-4204-B84C-15FB-999A7DC171C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest.CSharp", "AnimeVRTest.CSharp.csproj", "{7B3D4A35-CA52-5EAD-20B6-50E334A56102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest.CSharp.Editor.Plugins", "AnimeVRTest.CSharp.Editor.Plugins.csproj", "{BF00D2F3-25C9-F659-8426-1221D0938B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeVRTest.CSharp.Editor", "AnimeVRTest.CSharp.Editor.csproj", "{C89AE6CA-5DE0-F3D2-108B-C0D172B4312F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +15,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C45AAC98-A9C8-CD1F-C15B-AF4573C8EAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C45AAC98-A9C8-CD1F-C15B-AF4573C8EAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C45AAC98-A9C8-CD1F-C15B-AF4573C8EAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C45AAC98-A9C8-CD1F-C15B-AF4573C8EAC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{10A5CB1A-4204-B84C-15FB-999A7DC171C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10A5CB1A-4204-B84C-15FB-999A7DC171C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10A5CB1A-4204-B84C-15FB-999A7DC171C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10A5CB1A-4204-B84C-15FB-999A7DC171C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5114ECB1-A3E0-9347-DB98-1006F2FDD6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5114ECB1-A3E0-9347-DB98-1006F2FDD6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5114ECB1-A3E0-9347-DB98-1006F2FDD6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5114ECB1-A3E0-9347-DB98-1006F2FDD6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3D4A35-CA52-5EAD-20B6-50E334A56102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3D4A35-CA52-5EAD-20B6-50E334A56102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3D4A35-CA52-5EAD-20B6-50E334A56102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3D4A35-CA52-5EAD-20B6-50E334A56102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF00D2F3-25C9-F659-8426-1221D0938B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF00D2F3-25C9-F659-8426-1221D0938B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF00D2F3-25C9-F659-8426-1221D0938B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF00D2F3-25C9-F659-8426-1221D0938B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89AE6CA-5DE0-F3D2-108B-C0D172B4312F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89AE6CA-5DE0-F3D2-108B-C0D172B4312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89AE6CA-5DE0-F3D2-108B-C0D172B4312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89AE6CA-5DE0-F3D2-108B-C0D172B4312F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
