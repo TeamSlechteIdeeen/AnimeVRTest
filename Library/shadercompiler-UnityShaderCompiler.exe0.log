@@ -1,2 +1,205 @@
-Base path: C:/Program Files/Unity/Editor/Data
+Base path: K:/programs/Unity/Editor/Data
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=8333 outsize=1691 ok=1
+Cmd: preprocess
+  insize=10964 outsize=567 ok=1
+Cmd: preprocess
+  insize=1401 outsize=441 ok=1
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=1615 outsize=1855 ok=1
+Cmd: preprocess
+  insize=1063 outsize=343 ok=1
+Cmd: preprocess
+  insize=9575 outsize=638 ok=1
+Cmd: preprocess
+  insize=1624 outsize=302 ok=1
+Cmd: preprocess
+  insize=844 outsize=298 ok=1
+Cmd: preprocess
+  insize=928 outsize=257 ok=1
+Cmd: preprocess
+  insize=1288 outsize=625 ok=1
+Cmd: preprocess
+  insize=4235 outsize=1054 ok=1
+Cmd: preprocess
+  insize=1923 outsize=435 ok=1
+Cmd: preprocess
+  insize=1217 outsize=355 ok=1
+Cmd: preprocess
+  insize=3521 outsize=544 ok=1
+Cmd: preprocess
+  insize=1454 outsize=1799 ok=1
+Cmd: preprocess
+  insize=718 outsize=1486 ok=1
+Cmd: preprocess
+  insize=1164 outsize=352 ok=1
+Cmd: preprocess
+  insize=6511 outsize=621 ok=1
+Cmd: preprocess
+  insize=1097 outsize=257 ok=1
+Cmd: preprocess
+  insize=13054 outsize=2669 ok=1
+Cmd: preprocess
+  insize=1044 outsize=939 ok=1
+Cmd: preprocess
+  error: 2 plat 19 at (26): Too many texture interpolators would be used for ForwardBase pass (11 out of max 10)
+  insize=4363 outsize=1656 ok=0
+Cmd: preprocess
+  insize=3138 outsize=2188 ok=1
+Cmd: preprocess
+  insize=2413 outsize=624 ok=1
+Cmd: preprocess
+  insize=883 outsize=244 ok=1
+Cmd: preprocess
+  insize=1314 outsize=333 ok=1
+Cmd: preprocess
+  insize=1353 outsize=294 ok=1
+Cmd: preprocess
+  insize=1188 outsize=223 ok=1
+Cmd: preprocess
+  insize=5387 outsize=289 ok=1
+Cmd: preprocess
+  insize=2379 outsize=1059 ok=1
+Cmd: preprocess
+  insize=1344 outsize=298 ok=1
+Cmd: preprocess
+  insize=1193 outsize=272 ok=1
+Cmd: preprocess
+  insize=2235 outsize=587 ok=1
+Cmd: preprocess
+  insize=902 outsize=220 ok=1
+Cmd: preprocess
+  insize=2952 outsize=702 ok=1
+Cmd: preprocess
+  insize=636 outsize=270 ok=1
+Cmd: preprocess
+  insize=6131 outsize=780 ok=1
+Cmd: preprocess
+  insize=2237 outsize=943 ok=1
+Cmd: preprocess
+  insize=32573 outsize=223 ok=1
+Cmd: preprocess
+  insize=1154 outsize=210 ok=1
+Cmd: preprocess
+  insize=4293 outsize=408 ok=1
+Cmd: preprocess
+  insize=2791 outsize=1788 ok=1
+Cmd: preprocess
+  insize=992 outsize=217 ok=1
+Cmd: preprocess
+  insize=4770 outsize=1426 ok=1
+Cmd: preprocess
+  insize=12787 outsize=1603 ok=1
+Cmd: preprocess
+  insize=963 outsize=301 ok=1
+Cmd: preprocess
+  insize=12183 outsize=2541 ok=1
+Cmd: preprocess
+  insize=6023 outsize=572 ok=1
+Cmd: preprocess
+  insize=2677 outsize=601 ok=1
+Cmd: preprocess
+  insize=2250 outsize=1631 ok=1
+Cmd: preprocess
+  insize=10773 outsize=2371 ok=1
+Cmd: preprocess
+  insize=2486 outsize=1124 ok=1
+Cmd: preprocess
+  insize=12423 outsize=1928 ok=1
+Cmd: preprocess
+  insize=1909 outsize=374 ok=1
+Cmd: preprocess
+  insize=1357 outsize=609 ok=1
+Cmd: preprocess
+  insize=1878 outsize=565 ok=1
+Cmd: preprocess
+  insize=1530 outsize=245 ok=1
+Cmd: preprocess
+  insize=23968 outsize=3373 ok=1
+Cmd: preprocess
+  insize=3938 outsize=435 ok=1
+Cmd: preprocess
+  insize=1675 outsize=247 ok=1
+Cmd: preprocess
+  insize=965 outsize=301 ok=1
+Cmd: preprocess
+  insize=1082 outsize=340 ok=1
+Cmd: preprocess
+  insize=673 outsize=217 ok=1
+Cmd: preprocess
+  insize=1434 outsize=772 ok=1
+Cmd: preprocess
+  insize=5564 outsize=695 ok=1
+Cmd: preprocess
+  insize=5171 outsize=577 ok=1
+Cmd: preprocess
+  insize=520 outsize=309 ok=1
+Cmd: preprocess
+  insize=6414 outsize=678 ok=1
+Cmd: preprocess
+  insize=1459 outsize=474 ok=1
+Cmd: preprocess
+  insize=32583 outsize=222 ok=1
+Cmd: preprocess
+  insize=5175 outsize=1689 ok=1
+Cmd: preprocess
+  insize=2274 outsize=1004 ok=1
+Cmd: preprocess
+  insize=6737 outsize=204 ok=1
+Cmd: preprocess
+  insize=4268 outsize=354 ok=1
+Cmd: preprocess
+  insize=881 outsize=278 ok=1
+Cmd: preprocess
+  insize=4608 outsize=727 ok=1
+Cmd: preprocess
+  insize=1310 outsize=352 ok=1
+Cmd: preprocess
+  insize=5717 outsize=1091 ok=1
+Cmd: preprocess
+  insize=716 outsize=253 ok=1
+Cmd: preprocess
+  insize=656 outsize=267 ok=1
+Cmd: preprocess
+  insize=1398 outsize=665 ok=1
+Cmd: preprocess
+  insize=4039 outsize=836 ok=1
+Cmd: preprocess
+  insize=3696 outsize=502 ok=1
+Cmd: preprocess
+  insize=799 outsize=244 ok=1
+Cmd: preprocess
+  insize=1265 outsize=240 ok=1
+Cmd: preprocess
+  insize=701 outsize=304 ok=1
+Cmd: preprocess
+  insize=2015 outsize=883 ok=1
+Cmd: preprocess
+  insize=5095 outsize=605 ok=1
+Cmd: preprocess
+  insize=1017 outsize=438 ok=1
+Cmd: preprocess
+  insize=1139 outsize=332 ok=1
+Cmd: preprocess
+  insize=512 outsize=209 ok=1
+Cmd: preprocess
+  insize=650 outsize=257 ok=1
+Cmd: preprocess
+  insize=5006 outsize=706 ok=1
+Cmd: preprocess
+  insize=4830 outsize=1633 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7793 outsize=3170 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7793 outsize=918 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7793 outsize=2850 kw=DIRECTIONAL SHADOWS_SCREEN DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7793 outsize=1346 kw=DIRECTIONAL SHADOWS_SCREEN DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7793 outsize=3098 kw=DIRECTIONAL SHADOWS_SCREEN DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON UNITY_SINGLE_PASS_STEREO pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7793 outsize=1346 kw=DIRECTIONAL SHADOWS_SCREEN DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON UNITY_SINGLE_PASS_STEREO pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=1
