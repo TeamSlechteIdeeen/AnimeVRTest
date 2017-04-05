@@ -147,6 +147,7 @@
     <Compile Include="Assets\Scripts\Plane_Mesh_Script.cs" />
     <Compile Include="Assets\Scripts\PlayerPosToCam.cs" />
     <Compile Include="Assets\Scripts\RotateByHeadset.cs" />
+    <Compile Include="Assets\Scripts\WandController.cs" />
     <Compile Include="Assets\Scripts\WiimoteDemo.cs" />
     <Compile Include="Assets\Scripts\bullet.cs" />
     <Compile Include="Assets\Scripts\rayTest.cs" />
