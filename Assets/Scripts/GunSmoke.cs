@@ -29,7 +29,7 @@ public class GunSmoke : MonoBehaviour {
         {
             timer = 0;
             //Instantiate(particle, endOfgun.position, Quaternion.identity);
-            particle.enableEmission = true;
+            particle.enableEmission = true; //deprecated. Moet worden vervangen
 
             //Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;

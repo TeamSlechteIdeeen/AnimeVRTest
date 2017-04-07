@@ -656,6 +656,7 @@
     <None Include="Assets\Vive-Teleporter\Shader\TransparentNoOverlap.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementBorder.shader" />
     <None Include="Assets\Vive-Teleporter\Shader\ViveMovementGrid.shader" />
+    <None Include="Assets\iraq map\dwg\Audit report.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
